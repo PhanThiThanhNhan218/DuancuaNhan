@@ -14,7 +14,7 @@ def ceasar_encrypt(plaintext, k):
 
 # chạy
 p = "PhanNhan"
-k = 23  # STT của bạn
+k = 36
 
 c = ceasar_encrypt(p, k)
 print("Plaintext:", p)
